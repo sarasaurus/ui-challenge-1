@@ -1,19 +1,28 @@
-body, header, main, sidebar, footer, article, section, div {
-    margin: 0;
+body {
+    margin: 0 auto;
     padding: 0;
+    height: 768px;
     width: 100%;
 }
+header, main, sidebar, footer, article, section, div {
+    margin: 0;
+    padding: auto auto;
+    width: 100%;
+    display: block;
+   }
 
 header {
     background-color: pink;
+    
 } 
 
 main {
-    background-color: palegoldenrod;
+    background-color: yellow;
 }
 
 sidebar {
-    background-color: lightblue;
+    background-color: blue;
+
 }
 
 footer {
