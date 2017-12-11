@@ -51,20 +51,19 @@ div {
         width: 960px;
         margin: 0 auto;
     }
-    sidebar {
-        height: 10%;
-    }
-
+   header {
+       height: 11%;
+   }
     main {
         width: 80%;
-        height: 60%;
+        height: 65%;
 
         float: right;
     }
     
     sidebar {
         width: 20%;
-        height: 80%;
+        height: 79%;
         float: left;
     }
     article.top {
@@ -84,7 +83,7 @@ div {
         float: right;
     }
     footer {
-        height: 20%;
+        height: 14%;
         width: 80%;
     }
  }
