@@ -4,9 +4,9 @@ body {
     height: 768px;
     width: 100%;
 }
-header, main, sidebar, footer, article, section, div {
+header, main, sidebar, footer, article, section, div, p {
     margin: 0;
-    padding: auto auto;
+    padding: 0;
     width: 100%;
     display: inline-block;
    }
@@ -42,7 +42,10 @@ div {
 }
 
 p {
+    position: relative;
     color: black;
     text-align: center;
-}
+    top: 50%;
+    display: block;
+  }
 
