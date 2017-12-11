@@ -1,0 +1,39 @@
+body, header, main, sidebar, footer, article, section, div {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+header {
+    background-color: pink;
+} 
+
+main {
+    background-color: palegoldenrod;
+}
+
+sidebar {
+    background-color: lightblue;
+}
+
+footer {
+    background-color: lightgreen;
+}
+
+article {
+    background-color: lightsalmon;
+}
+
+section {
+    background-color: mediumorchid;
+}
+
+div {
+    background-color: lemonchiffon;
+}
+
+p {
+    color: black;
+    text-align: center;
+}
+
