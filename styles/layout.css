@@ -1,10 +1,10 @@
 
 header {
-    height: 10%;
+    height: 8%;
 } 
 
 sidebar {
-    height: 10%;
+    height: 12%;
 }
 
 main {
@@ -23,16 +23,16 @@ article.bottom {
 }
 section.left {
     display: inline-block;
-    width: 50%;
+    width: 49%;
     height: 100%;
     float: left;
 }
 section.right {
     display: inline-block;
-    width: 50%;
+    width: 49%;
     height: 100%;
     float: right;
-}
+    }
 section {
     display: inline-block;
 }

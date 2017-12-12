@@ -36,10 +36,12 @@ footer {
 
 article {
     background-color: lightsalmon;
-}
+ }
 
 section {
-    background-color: mediumorchid;
+    background-color: chartreuse;
+    margin: .5%;
+    
 }
 
 div {
