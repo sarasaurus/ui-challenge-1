@@ -10,11 +10,14 @@ body {
 
 }
 header, main, sidebar, footer, article, section, div, p {
-    margin: 0;
     padding: 0;
     width: 100%;
     display: inline-block;
    }
+header, main, sidebar, footer, article, section {
+    margin: .5%;
+}
+    
 
 header {
      background-color: pink;
@@ -36,11 +39,12 @@ footer {
 
 article {
     background-color: lightsalmon;
+
  }
 
 section {
     background-color: chartreuse;
-    margin: .5%;
+
     
 }
 
